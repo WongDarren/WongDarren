@@ -19,7 +19,7 @@
 </div>
 
 ### About Me
-I am an aspiring Software Engineer who is passionate about building fun and interesting projects. I'm learning new technologies all the time and I'm not afraid to develop with them. I'm currently searching for my next role, so feel free to contact me at if you are an employer, or even if you want to chat!
+I am a Software Engineer who is passionate about building fun and interesting projects. I'm learning new technologies all the time and I'm not afraid to develop with them.
 
 
 ### Some Languages and Tools I've Worked With
